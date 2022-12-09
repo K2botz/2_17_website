@@ -1,0 +1,24 @@
+Body {
+  background-color:#000000;
+  color:#FFFFFF	;
+  font-family:"Gloria+Hallelujah",sans-serif
+}
+#wrapper {
+  Margin-left: auto
+  Margin-right: auto
+    Width: 80%
+}
+header{
+  background-color: #00FFFF text-align: center;
+}
+h1 { line-height: 200%}
+nav { font-weight: bold; text-align: center;
+}
+nav a { text-decoration: none;}
+.studio { font-style: italic;}
+footer {
+  background-color: #00FFFF;
+  font-size: .60em;
+  font-size: italic;
+  text-align: center;
+}
